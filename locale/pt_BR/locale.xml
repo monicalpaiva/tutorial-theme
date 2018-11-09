@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<locale name="pt_BR" full_name="BR Brasil">
+    <message key="plugins.themes.tutorial-theme.name">Tutorial Theme</message>
+    <message key="plugins.themes.tutorial-theme.description">Exemplo de acordo com a documentação.</message>
+</locale>
